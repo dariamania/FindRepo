@@ -14,7 +14,7 @@ iOS App that searches repositories by name using GitHub API and OAuth
 ## Screenshots
 
 <pre>
-<img alt="findrepo1" src="https://pasteboard.co/sdBqhC8xgxwn.png" width="250">&nbsp; <img alt="findrepo2" src="https://pasteboard.co/8VqPrXS5fMl2.png" width="250">&nbsp; <img alt="findrepo3" src="https://pasteboard.co/YWX4O9HF9ctO.png" width="250">&nbsp; <img alt="findrepo4" src="https://pasteboard.co/NTrgmDzDYHsA.pnge" width="250">&nbsp;
+<img alt="findrepo1" src="https://github.com/dariamania/FindRepo/blob/main/screenshots/findrepo1.png?raw=true" width="250">&nbsp; <img alt="findrepo2" src="https://github.com/dariamania/FindRepo/blob/main/screenshots/findrepo2.png?raw=true" width="250">&nbsp; <img alt="findrepo3" src="https://github.com/dariamania/FindRepo/blob/main/screenshots/findrepo3.png?raw=true" width="250">&nbsp; <img alt="findrepo4" src="https://github.com/dariamania/FindRepo/blob/main/screenshots/findrepo4.png?raw=true" width="250">&nbsp;
 </pre>
 
 ## App Features
