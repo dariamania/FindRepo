@@ -25,7 +25,7 @@ iOS App that searches repositories by name using GitHub API and OAuth
 - [x] The search result contains 30 elements (used 2 parallel streams: the first 15 elements of the result from 1 stream and the next 15 elements from 2 stream)
 - [x] Pagination is made for loading the following results (endless scrolling)
 - [x] When clicking on the name, a browser opens with the information about the repository
-- [x] Add a tab with the history of repositories views. The history contains the last 20 viewed items, works offline, cleans on Sign Out
+- [x] Added a tab with the history of repository views. The history contains the last 20 viewed items, works offline, cleans up on Sign Out
 
 ## Technologies
 - [x] Swift 5.6
